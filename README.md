@@ -34,4 +34,4 @@ To run test, run the following command
 ```
 ## Screenshots
 
-![Alt text](/test_file/printscreen_Graphwiz.png?raw=true "Optional Title")
+![Alt text](/test_file/ddd?raw=true "Optional Title")
