@@ -35,4 +35,3 @@ To run test, run the following command
 ## Screenshots
 
 ![App Screenshot]([https://via.placeholder.com](https://github.com/dedomrak/CSVParser/tree/main/test_file/printscreen_Graphwiz.png)/468x300?text=App+Screenshot+Here)
-
